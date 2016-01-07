@@ -17,8 +17,8 @@ destination: _site
 
 # site title, description, meta_description, meta_keywords
 # Details for the RSS feed generator
-name: Fernando Moreira
-title: Fernando Moreira | Desenvolvimento Web e tudo mais..
+name: BB8
+title: My Blog
 description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
 meta_description: "Desenvolvedor Front-end/Wordpress, Design Responsivo, HTML5, CSS3 e JavaScript"
 meta_keywords: "site, website, loja virtual, lojas virtuais, e-commerce, wordpress, frontend, front-end, html5, css3, javascript, jquery, seo, otimizacao, performance"
@@ -28,21 +28,21 @@ repo: https://github.com/nandomoreirame/nandomoreira-jekyll-theme
 disqus_shortname: "fernandomoreira"
 rss_path: source/
 author:
-  name      : Fernando Moreira
+  name      : BB8
   image     : /assets/images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  facebook  : http://facebook.com/fernando.dev
-  twitter   : http://twitter.com/nandomoreirame
-  instagram : http://instagram.com/nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  linkedin  : http://linkedin.com/in/nandomoreirame
-  bio       : "Desenvolvedor Front-end/Wordpress entusiasta de performance, design responsivo e usabilidade, sempre em busca do melhor projeto e de um bom café."
+  email     : bb8@swars.com
+  url       : http://bb8.me
+  facebook  : http://facebook.com/bb8
+  twitter   : http://twitter.com/bb8
+  instagram : http://instagram.com/bb8
+  github    : http://github.com/bb8
+  linkedin  : http://linkedin.com/in/bb8
+  bio       : I'm a big deal. 
 
 # thought
-thought:
-  text: I have no special talent. I am only passionately curious.
-  author: Albert Einstein
+# thought:
+#   text: I have no special talent. I am only passionately curious.
+#   author: Albert Einstein
 
 # Plugin: jekyll-assets
 assets:
